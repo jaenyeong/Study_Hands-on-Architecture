@@ -1,0 +1,7 @@
+clean:
+  transferThreshold: 10000
+
+spring:
+  h2:
+    console:
+      enabled: true
